@@ -35,6 +35,9 @@ The setup:
     Additional attack demos/writeups
     Captured malicious payload (see above)
     Enhanced logging of exploit post-exploit activity (example: attacker-initiated commands captured and logged)
+    
+    https://github.com/Noshinzaman/Honeypot/blob/main/session.JSON
+    
 
 ### Deploying Additional Honeypot(s) (Optional)
 
